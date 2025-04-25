@@ -1,8 +1,6 @@
 # Desafio-IA-Transformando-un-proceso-tradicional
 Entregable semana 1 modulo 1 - IA for developers.
 
-# Desafío IA: Transformando un Proceso Tradicional
-
 En este docuemnto, se expondra como un proceso tradicional puede mejorarse radicalmente mediante la implementacion de IA.
 
 ## 2. Descripción del Proceso Tradicional
